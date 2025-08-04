@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Angelo
 
-🎓 Electronics Engineering student at [UniTrento (UniTN)](https://www.unitn.it)
-🔧 Member of the FSAE team [EagleTRT](https://www.eagletrt.it) – Driver Interfaces Project Manager
-⌨️ Mechanical keyboard enthusiast
+* 🎓 Electronics Engineering student at [UniTrento (UniTN)](https://www.unitn.it)
+* 🔧 Member of the FSAE team [EagleTRT](https://www.eagletrt.it) – Driver Interfaces Project Manager
+* ⌨️ Mechanical keyboard enthusiast
 
 ---
 
