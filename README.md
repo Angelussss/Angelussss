@@ -44,7 +44,7 @@ Here are some of the projects I’ve contributed to or built:
 
 ## 💻 Arch Linux Dotfiles
 
-* [My dotfiles](https://github.com/Angelussss/dotfiles)
+* [My dotfiles](https://github.com/Angelussss/.dotfiles)
 
 ---
 
