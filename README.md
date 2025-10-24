@@ -30,8 +30,9 @@ Here are some of the projects I’ve contributed to or built:
 * **Keyboards firmware and PCB design** – QMK-based firmware + KiCad PCBs
 * **Various embedded prototypes** – ARM Cortex boards, STM32, ESP32, RP2040, etc.
 * **[QWAK keyboard Layout](https://github.com/Angelussss/QWAK-keyboard-layout)** - 📦 (in progress) a custom Keyboard layout, made for optimization of everyday usage
-* **[A Ducking Ruler](https://github.com/Angelussss/A-ducking-ruler)** - 📦 (in progress) a custom PCB ruler, because why not
-* **[Overload Amp](https://github.com/RiccardoSegala04/overload-amp)** – analog guitar amplifier built from scratch
+* **[A Ducking Ruler](https://github.com/Angelussss/A-ducking-ruler)** – 📦 (in progress) a custom PCB ruler, because why not
+* **[Overload Amp](https://github.com/RiccardoSegala04/overload-amp)** – 📦 (in progress) analog guitar amplifier built from scratch
+* **[Ducker Charger](https://github.com/Angelussss/Ducker-Charger)** – 📦 (in progress) custom powerbank built from scratch
 
 ---
 
