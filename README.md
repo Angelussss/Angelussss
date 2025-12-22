@@ -33,6 +33,7 @@ Here are some of the projects I’ve contributed to or built:
 * **[A Ducking Ruler](https://github.com/Angelussss/A-ducking-ruler)** – 📦 (in progress) a custom PCB ruler, because why not
 * **[Overload Amp](https://github.com/RiccardoSegala04/overload-amp)** – 📦 (in progress) analog guitar amplifier built from scratch
 * **[Ducker Charger](https://github.com/Angelussss/Ducker-Charger)** – 📦 (in progress) custom powerbank built from scratch
+* **[Koduck](https://github.com/Angelussss/Koduck)** – 📦 (in progress) custom camera built from scratch
 
 ---
 
