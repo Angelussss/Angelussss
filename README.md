@@ -41,6 +41,7 @@ Here are some of the projects I’ve contributed to or built:
 
 * [Relazioni Fisica 2](https://github.com/Angelussss/Relazioni-Fisica-2)
 * [Analog Electronics](https://github.com/Angelussss/Analog-Electonics)
+* [Progettazione e Prototipazione di Sistemi Elettronici](https://github.com/Angelussss/Progettazione-e-Prototipazione-di-Sistemi-Elettronici)
 * [Uni Notes](https://github.com/Angelussss/Uni-Notes)
 
 ---
